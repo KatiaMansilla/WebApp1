@@ -5,4 +5,8 @@
 - Estudiante2
 ## Descripcion
 EScribir de que se trata el proyecto
+
 ## Diagrama de Based de Datos
+| ENC1 | ENCA2 |
+| ------ | ------ |
+| DATO | DATO2 |
